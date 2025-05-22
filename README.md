@@ -2,4 +2,4 @@
 simple number guessing game in php
 
 
-HOSTED ON http://guess-the-number.free.nf
+HOSTED ON http://guess-the-number.free.nf (not works now)
